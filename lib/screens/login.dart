@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'colours.dart';
+import '../ui/colours.dart';
 import 'sign_up.dart';
 import 'forgot_password.dart';
 
