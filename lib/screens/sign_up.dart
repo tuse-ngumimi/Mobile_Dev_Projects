@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'colours.dart';
+import '../ui/colours.dart';
 
 class SignUpPage extends StatefulWidget {
   const SignUpPage({super.key});
