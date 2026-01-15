@@ -24,7 +24,7 @@ Clover is a simple and intuitive wellness application designed to help users bui
 ## Screenshots
 
 
-<img width="1198" height="2531" alt="login_1" src="https://github.com/user-attachments/assets/e00ebdb3-87e4-49fe-9a38-3305d07ab02b" />
+<img width="500" height="800" alt="login_1" src="https://github.com/user-attachments/assets/e00ebdb3-87e4-49fe-9a38-3305d07ab02b" />
 
 
 <imgwidth="500" height="800" alt="forgot_password_2" src="https://github.com/user-attachments/assets/36f37171-0c1a-46b7-8d49-15e9a6a3ffba" />
@@ -38,5 +38,6 @@ Clover is a simple and intuitive wellness application designed to help users bui
 <img width="500" height="800" alt="sign_up_1" src="https://github.com/user-attachments/assets/839d21db-6482-4be4-aff4-56a41f52103e" />
 
 <img width="500" height="800" alt="sign_up_2" src="https://github.com/user-attachments/assets/5a4ff389-6796-4145-8f43-2ca841b8a7cb" />
+
 
 
