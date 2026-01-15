@@ -87,7 +87,6 @@ class _ForgotPasswordPageState extends State<ForgotPasswordPage> {
                   const SizedBox(height: 40),
 
                   if (!_emailSent) ...[
-                    // Email Input
                     TextFormField(
                       controller: _emailController,
                       keyboardType: TextInputType.emailAddress,
@@ -122,8 +121,7 @@ class _ForgotPasswordPageState extends State<ForgotPasswordPage> {
                       },
                     ),
                     const SizedBox(height: 32),
-
-                    // Reset Password Button
+                    
                     ElevatedButton(
                       onPressed: _handleResetPassword,
                       style: ElevatedButton.styleFrom(
@@ -144,7 +142,6 @@ class _ForgotPasswordPageState extends State<ForgotPasswordPage> {
                       ),
                     ),
                   ] else ...[
-                    // Success Message
                     Container(
                       padding: const EdgeInsets.all(20),
                       decoration: BoxDecoration(
@@ -182,7 +179,7 @@ class _ForgotPasswordPageState extends State<ForgotPasswordPage> {
                     ),
                     const SizedBox(height: 32),
 
-                    // Back to Login Button
+                   
                     ElevatedButton(
                       onPressed: () => Navigator.pop(context),
                       style: ElevatedButton.styleFrom(
@@ -205,8 +202,7 @@ class _ForgotPasswordPageState extends State<ForgotPasswordPage> {
                   ],
 
                   const SizedBox(height: 20),
-
-                  // Back to Login Text
+                  
                   if (!_emailSent)
                     Row(
                       mainAxisAlignment: MainAxisAlignment.center,

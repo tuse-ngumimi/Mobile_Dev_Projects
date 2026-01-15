@@ -6,7 +6,7 @@ void main() {
   runApp(const MyApp());
 }
 
-
+//stateless widgets don't change overtime
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
       title: 'Clover App',
       theme: ThemeData(
         primaryColor: AppColors.blushPink,
-        scaffoldBackgroundColor: AppColors.cream,
+        scaffoldBackgroundColor: AppColors.cream,//default background colour
         colorScheme: ColorScheme.fromSeed(
           seedColor: AppColors.blushPink,
           primary: AppColors.blushPink,

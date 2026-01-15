@@ -33,6 +33,7 @@ class _LoginPageState extends State<LoginPage> {
       );
     }
   }
+  //app main scaffold for login page
 
   @override
   Widget build(BuildContext context) {
@@ -79,7 +80,7 @@ class _LoginPageState extends State<LoginPage> {
                   ),
                   const SizedBox(height: 40),
 
-                  // Email Input
+                  // email section
                   TextFormField(
                     controller: _emailController,
                     keyboardType: TextInputType.emailAddress,
@@ -115,7 +116,6 @@ class _LoginPageState extends State<LoginPage> {
                   ),
                   const SizedBox(height: 16),
 
-                  // Password Input
                   TextFormField(
                     controller: _passwordController,
                     obscureText: _obscurePassword,
@@ -164,7 +164,7 @@ class _LoginPageState extends State<LoginPage> {
                   ),
                   const SizedBox(height: 12),
 
-                  // Forgot Password
+                  // forgot password
                   Align(
                     alignment: Alignment.centerRight,
                     child: TextButton(
@@ -185,7 +185,7 @@ class _LoginPageState extends State<LoginPage> {
                   ),
                   const SizedBox(height: 24),
 
-                  // Login Button
+                  // login button settings
                   ElevatedButton(
                     onPressed: _handleLogin,
                     style: ElevatedButton.styleFrom(
@@ -207,7 +207,7 @@ class _LoginPageState extends State<LoginPage> {
                   ),
                   const SizedBox(height: 20),
 
-                  // Register Text
+                
                   Row(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
