@@ -18,14 +18,11 @@ A beautiful and simple task management application built with Flutter and Hive f
 
 ## Screenshots
 
+<img src="screenshots/Image_1.png" width="500" height="800" alt="Main Task List" />
 
-<img width="500" height="800" alt="image_1" src="https://github.com/user-attachments/assets/e00ebdb3-87e4-49fe-9a38-3305d07ab02b" />
+<img src="screenshots/Image_2.png" width="500" height="800" alt="Add Task to the List" />
 
-
-<img width="500" height="800" alt="image_2" src="https://github.com/user-attachments/assets/36f37171-0c1a-46b7-8d49-15e9a6a3ffba" />
-
-
-<img width="500" height="800" alt="image_3" src="https://github.com/user-attachments/assets/bb42d1a2-3380-4fee-9a3e-fddfc3cf35b0" />
+<img src="screenshots/Image_3.png" width="500" height="800" alt="Edit and Delete Option" />
 
 
 ## Built With
@@ -38,3 +35,4 @@ A beautiful and simple task management application built with Flutter and Hive f
 
 
 *Last updated: January 2026*
+
