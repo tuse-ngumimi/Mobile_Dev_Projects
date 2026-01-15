@@ -1,16 +1,33 @@
-# task_manager_app
+# Task Manager App
 
-A new Flutter project.
+A beautiful and simple task management application built with Flutter and Hive for offline data persistence. 
 
-## Getting Started
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-This project is a starting point for a Flutter application.
+## Features
+ 
+-  **Add Tasks** - Create new tasks with title and description
+-  **Edit Tasks** - Update existing tasks anytime
+-  **Mark as Complete** - Check off completed tasks with visual feedback
+-  **Delete Tasks** - Remove tasks you no longer need
+-  **Offline Storage** - All data saved locally using Hive database
+-  **Progress Tracking** - See your completion percentage at a glance
+-  **Modern UI** - Clean interface with Poppins font
+-  **Responsive Design** - Works on all screen sizes
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## 🛠️ Built With
+
+- **[Flutter](https://flutter.dev/)** 
+- **[Hive](https://pub.dev/packages/hive)** 
+- **[Hive Flutter](https://pub.dev/packages/hive_flutter)**
+- **[Poppins Font](https://fonts.google.com/specimen/Poppins)**
+
+
+
+*Last updated: January 2026*
