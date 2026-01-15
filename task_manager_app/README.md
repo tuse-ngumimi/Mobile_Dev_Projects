@@ -21,7 +21,7 @@ A beautiful and simple task management application built with Flutter and Hive f
 
 
 
-## 🛠️ Built With
+## Built With
 
 - **[Flutter](https://flutter.dev/)** 
 - **[Hive](https://pub.dev/packages/hive)** 
